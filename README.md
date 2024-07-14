@@ -49,8 +49,6 @@ Para iniciar a aplicação Streamlit, execute o seguinte comando no terminal:
 ```sh
 streamlit run app_RFV.py
 ```
-Substitua `app_RFV.py` pelo nome do arquivo Python que contém o código do projeto.
-
 ## Estrutura do Projeto
 
 - `app_RFV.py`: Arquivo principal do projeto que contém o código da aplicação.
@@ -71,6 +69,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
-
-Certifique-se de ajustar os detalhes específicos do seu repositório, como o link do repositório e o nome do arquivo Python, conforme necessário.
